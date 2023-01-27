@@ -16,4 +16,6 @@ from Sao Paulo, Brazil.
 
 2-Data Augmentation- I did Data Augmentation to increase the size of my test and train data so my model can predict more accurately
 
-3-Model Training: I have used layer model like - ResNet-* and trained my model.
+3-Model Training: I have used CNN with layer model like - ResNet-50.
+
+4. Final Prediction and Accuracy evaluation. 

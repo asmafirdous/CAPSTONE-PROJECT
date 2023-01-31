@@ -1,0 +1,16 @@
+# Welcome to the capstone project!
+
+Over the past few months, we have covered a lot of new concepts and topics. 
+Now, this project will bring together everything that you have learnt in this program.
+
+Problem statement:
+CT Scan Image Classification
+
+Link to detailed Project Statement -
+ [ LUFSDSC22 - Capstone Project]
+(https://docs.google.com/document/d/1RrsMA4PPOBwlR9W7RdtdTToGotyDb4fj42Z7JBRm5dU/edit?usp=sharing)
+
+
+**Last Date to submit your Capstone Project - 31st January 2023 11:59 PM.**
+For submissions received beyond the deadline, you will be given a score of 0.
+Please check the document for detailed guidelines and submission rules.
